@@ -2,7 +2,7 @@
 
 ## About me :computer:
 
-I'm Alba. I'am a software engineer at University of Oviedo. Currently I'am development my final degree. At the same time I am working in a company in Asturias as a frontend developer.
+I'm Alba. I'am a software engineer at University of Oviedo. Currently I'am development my final degree. At the same time I am working in a company in Asturias as a frontend developer of Angular.
 
 ## Interests :briefcase:
 
