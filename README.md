@@ -6,12 +6,11 @@ I'm Alba. I'am a software engineer at University of Oviedo. Currently I'am devel
 
 ## Interests :briefcase:
 
-* Angular <img alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" /> 
-* TypeScript <img alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" />
-* Spring boot <img alt="Spring boot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" />
-* Java <img alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" />
-* JavaScript <img alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" />
-* Git <img alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" />
+<img alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" /> <img alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" />
+<img alt="Spring boot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" />
+<img alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" />
+<img alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" />
+<img alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" />
 
 ## Find me :mailbox:<img align="left" width="300" height="200" src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif">
 
